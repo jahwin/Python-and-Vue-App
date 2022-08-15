@@ -19,5 +19,6 @@ npm run watch
 npm run prod
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Watch youtube video for more details
+
+https://www.youtube.com/watch?v=yoKxxL1wk0A&ab_channel=AbeJahwin
