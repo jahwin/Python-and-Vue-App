@@ -1,0 +1,14 @@
+autopep8==1.7.0
+bottle==0.12.23
+bottle-websocket==0.2.9
+Eel==0.14.0
+future==0.18.2
+gevent==21.12.0
+gevent-websocket==0.10.1
+greenlet==1.1.2
+pycodestyle==2.9.1
+pyparsing==3.0.9
+toml==0.10.2
+whichcraft==0.6.1
+zope.event==4.5.0
+zope.interface==5.4.0
